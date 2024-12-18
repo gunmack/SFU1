@@ -2,7 +2,7 @@
 
 Click on the logo to view<br/>
 
-[![SFU Logo][sfu-image]](https://www.gunmack.dev/SFU)
+[![SFU Logo][sfu-image]](https://gunmack.github.io/archived/SFU)
 
 [sfu-image]: /images/SFU.png
 
